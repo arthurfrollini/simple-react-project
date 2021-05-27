@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://www.seekpng.com/png/detail/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="React" width="360">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="React" width="360">
   <br>
   React Simple Project
   <br>
